@@ -3,7 +3,7 @@
 This is opencv-python based program to identify lanes in a video. Output of the executed videos can be found in the output_videos folder
 
 ## Piepeline followed: 
-*These steps are performed on each frame in a video, you obviously figured that out :)
+* These steps are performed on each frame in a video, you obviously figured that out :)
 > Convert the image into Grayscale
 
 > Apply canny on the gray_image created
