@@ -1,6 +1,7 @@
 # Autonomous-Vehicle-Lane-detection
 
-## Piepeline followed: [ These steps are performed on each frame in a video, you obviously figured that out :) ]
+## Piepeline followed: 
+[ These steps are performed on each frame in a video, you obviously figured that out :) ]
 > Convert the image into Grayscale
 
 > Apply canny on the gray_image created
