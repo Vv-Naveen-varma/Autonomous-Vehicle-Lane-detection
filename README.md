@@ -10,7 +10,8 @@ This is opencv-python based program to identify lanes in a video. Output of the 
 
 > Reduce the noise in the image using gaussian_blur on gray_image
 
-> Apply canny to the gaussian_image by specifying low and high thresholds
+> Apply canny to the gaussian_image by specifying low and high thresholds.
+> Note: The document suggests to use a 1:2 or 1:3 ratio of thresholds here we use a 1:3 ratio. Feel free to play around!
 
 > Now find the hough_lines and draw the lines onto the image
 
