@@ -1,6 +1,6 @@
 # Autonomous-Vehicle-Lane-detection
 
-This is opencv-python based program to identify lanes in a video. Output of the executed videos can be found in the output_videos folder
+This is opencv-python based program to identify lanes in a video. Output of the executed videos can be found here: https://github.com/Vv-Naveen-varma/Autonomous-Vehicle-Lane-detection/tree/main/test_videos_output
 
 ## Piepeline followed: 
 * These steps are performed on each frame in a video, you obviously figured that out :)
